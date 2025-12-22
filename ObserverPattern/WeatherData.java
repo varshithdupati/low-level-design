@@ -1,23 +1,31 @@
 package ObserverPattern;
 
-public class WeatherData {
+import java.util.*;
+
+public class WeatherData implements Subject {
 
     private int temperature, humidity, pressure;
-    private WeatherSubject weatherSubject;
+    private List<Observer> subscribers;
 
     public WeatherData() {
         this.temperature = 30;
         this.humidity = 40;
         this.pressure = 20;
-        this.weatherSubject = new WeatherSubject();
+        this.subscribers = new ArrayList<>();
     }
 
     public void subscribe(Observer observer) {
-        weatherSubject.subscribe(observer);
+        subscribers.add(observer);
     }
 
     public void unsubscribe(Observer observer) {
-        weatherSubject.unsubscribe(observer);
+        subscribers.remove(observer);
+    }
+
+    public void notifySubscribers() {
+        for(Observer observer: subscribers) {
+            observer.update();
+        }
     }
     
     public int getTemperature() {
@@ -40,7 +48,7 @@ public class WeatherData {
     }
 
     public void measurementsChanged() {
-        weatherSubject.notifySubscribers();
+        notifySubscribers();
     }
 
 }
