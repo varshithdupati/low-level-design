@@ -1,27 +1,19 @@
 # Low Level Design
 
-A collection of object-oriented design solutions demonstrating SOLID principles, design patterns, and clean architecture.
+Real-world design pattern implementations in Java — because good architecture isn't just theory.
 
-## What's Inside
+## Implementations
 
-Each solution includes:
-- **Requirements breakdown** — Clear problem analysis
-- **Class diagrams** — Visual system architecture
-- **Working code** — Production-quality implementations
-- **Design decisions** — Rationale behind key choices
+| Pattern | Problem | Key Concepts |
+|---------|---------|--------------|
+| [Strategy](./StrategyPattern) | Duck Simulation | Composition over inheritance, runtime behavior swapping |
+| [Observer](./ObserverPattern) | Weather Station | Loose coupling, pub-sub, one-to-many relationships |
+| ... | *More coming* | |
 
-## Problems
+## Tech
 
-| Problem | Key Concepts |
-|---------|-------------|
-| *Coming soon* | |
-
-## Tech Stack
-
-- **Language:** Java / Python / C++
-- **Principles:** SOLID, DRY, KISS
-- **Patterns:** Factory, Strategy, Observer, Singleton, and more
+**Java** · SOLID · Design Patterns
 
 ---
 
-*Built to demonstrate system design thinking and clean code practices.*
+MIT License
