@@ -22,7 +22,7 @@ public class Main {
             display.showData();
         }
 
-        weatherData.measurementsChanged();
+        weatherData.setData(32, 42, 22);
 
         for(Supplier<? extends Display> displaySignature: displays) {
             Display display = displaySignature.get();
