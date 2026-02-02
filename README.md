@@ -6,9 +6,15 @@ Real-world design pattern implementations in Java — because good architecture 
 
 | Pattern | Problem | Key Concepts |
 |---------|---------|--------------|
-| [Strategy](./StrategyPattern) | Duck Simulation | Composition over inheritance, runtime behavior swapping |
-| [Observer](./ObserverPattern) | Weather Station | Loose coupling, pub-sub, one-to-many relationships |
-| [Decorator](./DecoratorPattern) | Coffee Shop | Open-closed principle, dynamic behavior extension |
+| [Strategy](./Patterns/StrategyPattern) | Duck Simulation | Composition over inheritance, runtime behavior swapping |
+| [Observer](./Patterns/ObserverPattern) | Weather Station | Loose coupling, pub-sub, one-to-many relationships |
+| [Decorator](./Patterns/DecoratorPattern) | Coffee Shop | Open-closed principle, dynamic behavior extension |
+| ... | *More coming* | |
+
+## Problems
+
+| Problem | Patterns |
+|---------|----------|
 | ... | *More coming* | |
 
 ## Tech
