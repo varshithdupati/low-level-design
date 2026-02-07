@@ -9,6 +9,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [Strategy](./Patterns/StrategyPattern) | Duck Simulation | Composition over inheritance, runtime behavior swapping |
 | [Observer](./Patterns/ObserverPattern) | Weather Station | Loose coupling, pub-sub, one-to-many relationships |
 | [Decorator](./Patterns/DecoratorPattern) | Coffee Shop | Open-closed principle, dynamic behavior extension |
+| [Factory](./Patterns/FactoryPattern) | Pizza Shop | Dependency Inversion principle, dynamic object creation |
 | ... | *More coming* | |
 
 ## Problems
