@@ -11,6 +11,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [Decorator](./Patterns/DecoratorPattern) | Coffee Shop | Open-closed principle, dynamic behavior extension |
 | [Factory](./Patterns/FactoryPattern) | Pizza Shop | Dependency Inversion principle, dynamic object creation |
 | [Singleton](./Patterns/SingletonPattern) | Chocolate Factory | Thread safe singleton, java enum singleton |
+| [Command](./Patterns/CommandPattern) | Remote with undo | Loosely coupled, Open Close principle |
 | ... | *More coming* | |
 
 ## Problems
