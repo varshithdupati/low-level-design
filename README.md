@@ -14,7 +14,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [Command](./Patterns/CommandPattern) | Remote with undo | Loosely coupled, open close principle |
 | [Adaptor](./Patterns/AdaptorPattern) | Duck to Turkey Adaptor | Program to interfaces, composition over inheritance |
 | [Facade](./Patterns/FacadePattern) | Home Theater setup | Loosely coupled, principle of least knowledge |
-| [TemplateMethod](./Patterns/TemplateMethodPattern) | Caffine Beverage preparation | Don't call us, we will call you, loosely coupled |
+| [TemplateMethod](./Patterns/TemplateMethodPattern) | Caffine Beverage | Don't call us, we will call you, loosely coupled |
 | ... | *More coming* | |
 
 ## Problems
