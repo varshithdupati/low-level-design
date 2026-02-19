@@ -16,6 +16,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [Facade](./Patterns/FacadePattern) | Home Theater setup | Loosely coupled, principle of least knowledge |
 | [TemplateMethod](./Patterns/TemplateMethodPattern) | Caffine Beverage | Don't call us, we will call you, loosely coupled |
 | [Iterator](./Patterns/IteratorPattern) | Restaurant menus | Single Responsbility, loosely coupled |
+| [Composite](./Patterns/CompositePattern) | Restaurant sub menus | Single Responsbility, loosely coupled |
 | ... | *More coming* | |
 
 ## Problems
