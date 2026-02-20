@@ -4,19 +4,19 @@ Real-world design pattern implementations in Java — because good architecture 
 
 ## Implementations
 
-| Pattern | Problem | Key Concepts |
-|---------|---------|--------------|
-| [Strategy](./Patterns/StrategyPattern) | Duck Simulation | Composition over inheritance, runtime behavior swapping |
-| [Observer](./Patterns/ObserverPattern) | Weather Station | Loose coupling, pub-sub, one-to-many relationships |
-| [Decorator](./Patterns/DecoratorPattern) | Coffee Shop | Open-closed principle, dynamic behavior extension |
-| [Factory](./Patterns/FactoryPattern) | Pizza Shop | Dependency Inversion principle, dynamic object creation |
-| [Singleton](./Patterns/SingletonPattern) | Chocolate Factory | Thread safe singleton, java enum singleton |
-| [Command](./Patterns/CommandPattern) | Remote with undo | Loosely coupled, open close principle |
-| [Adaptor](./Patterns/AdaptorPattern) | Duck to Turkey Adaptor | Program to interfaces, composition over inheritance |
-| [Facade](./Patterns/FacadePattern) | Home Theater setup | Loosely coupled, principle of least knowledge |
-| [TemplateMethod](./Patterns/TemplateMethodPattern) | Caffine Beverage | Don't call us, we will call you, loosely coupled |
-| [Iterator](./Patterns/IteratorPattern) | Restaurant menus | Single Responsbility, loosely coupled |
-| [Composite](./Patterns/CompositePattern) | Restaurant sub menus | Single Responsbility, loosely coupled |
+| Pattern | Scenario | Implementation Focus |
+|---------|----------|----------------------|
+| [Strategy](./Patterns/StrategyPattern) | Duck Simulation | Runtime behavior swap |
+| [Observer](./Patterns/ObserverPattern) | Weather Station | Pub-sub updates |
+| [Decorator](./Patterns/DecoratorPattern) | Coffee Shop | Add features dynamically |
+| [Factory](./Patterns/FactoryPattern) | Pizza Shop | Centralized object creation |
+| [Singleton](./Patterns/SingletonPattern) | Chocolate Factory | Single shared instance |
+| [Command](./Patterns/CommandPattern) | Remote with Undo | Actions as objects |
+| [Adapter](./Patterns/AdaptorPattern) | Duck to Turkey Adapter | Interface conversion |
+| [Facade](./Patterns/FacadePattern) | Home Theater Setup | Simple wrapper API |
+| [Template Method](./Patterns/TemplateMethodPattern) | Caffeine Beverage | Fixed flow, custom steps |
+| [Iterator](./Patterns/IteratorPattern) | Restaurant Menus | Unified traversal |
+| [Composite](./Patterns/CompositePattern) | Restaurant Sub-menus | Tree structure handling |
 | ... | *More coming* | |
 
 ## Problems
