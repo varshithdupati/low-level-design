@@ -27,7 +27,7 @@ Real-world design pattern implementations in Java — because good architecture 
 
 ## Tech
 
-**Java** · SOLID · Design Patterns
+**Java** · Design Patterns · Design Principles
 
 ---
 
