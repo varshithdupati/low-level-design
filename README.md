@@ -4,8 +4,8 @@ Real-world design pattern implementations in Java — because good architecture 
 
 ## Implementations
 
-| Pattern | Scenario | Implementation Focus |
-|---------|----------|----------------------|
+| Pattern | How it’s used | Why it’s cool |
+|---------|------------------|---------------|
 | [Strategy](./Patterns/StrategyPattern) | Duck Simulation | Runtime behavior swap |
 | [Observer](./Patterns/ObserverPattern) | Weather Station | Pub-sub updates |
 | [Decorator](./Patterns/DecoratorPattern) | Coffee Shop | Add features dynamically |
