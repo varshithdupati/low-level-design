@@ -18,6 +18,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [Iterator](./Patterns/IteratorPattern) | Restaurant Menus | Unified traversal |
 | [Composite](./Patterns/CompositePattern) | Restaurant Sub-menus | Tree structure handling |
 | [State](./Patterns/StatePattern) | Gumball Machine | Context and state management |
+| [Proxy](./Patterns/ProxyPattern) | Remote Gumball Machine | Remote proxy, network method calls |
 | ... | *More coming* | |
 
 ## Problems
