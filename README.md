@@ -23,8 +23,9 @@ Real-world design pattern implementations in Java — because good architecture 
 
 ## Problems
 
-| Problem | Patterns |
-|---------|----------|
+| Problem | Patterns / Principles |
+|---------|-----------------------|
+| TikTacToe | MVC-style, SRP, encapsulation |
 | ... | *More coming* | |
 
 ## Tech
