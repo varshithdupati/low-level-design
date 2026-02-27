@@ -26,6 +26,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | Problem | Patterns / Principles |
 |---------|-----------------------|
 | [TikTacToe](./Problems/TikTacToe) | MVC-style, SRP, encapsulation |
+| [LRUCache](./Problems/LRUCache) | HashMap + Doubly Linked List, O(1) |
 | ... | *More coming* | |
 
 ## Tech
