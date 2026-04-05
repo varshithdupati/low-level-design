@@ -29,6 +29,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [LRUCache](./Problems/LRUCache) | HashMap + Doubly Linked List, O(1) |
 | [LoggingFramework](./Problems/LoggingFramework) | Singleton, Strategy |
 | [PubSubSystem](./Problems/PubSubSystem) | Singleton, Strategy, Concurrency |
+| [LibraryManagementSystem](./Problems/LibraryManagementSystem) | Singleton, Strategy, State, Factory |
 | ... | *More coming* | |
 
 ## Tech
