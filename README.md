@@ -30,6 +30,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [LoggingFramework](./Problems/LoggingFramework) | Singleton, Strategy |
 | [PubSubSystem](./Problems/PubSubSystem) | Singleton, Strategy, Concurrency |
 | [LibraryManagementSystem](./Problems/LibraryManagementSystem) | Singleton, Strategy, State, Factory |
+| [TrafficControlSystem](./Problems/TrafficControlSystem) | State, Builder, Concurrency |
 | ... | *More coming* | |
 
 ## Tech
