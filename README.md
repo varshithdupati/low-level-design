@@ -32,6 +32,7 @@ Real-world design pattern implementations in Java — because good architecture 
 | [LibraryManagementSystem](./Problems/LibraryManagementSystem) | Singleton, Strategy, State, Factory |
 | [TrafficControlSystem](./Problems/TrafficControlSystem) | State, Builder, Concurrency |
 | [CoffeeVendingMachine](./Problems/CoffeeVendingMachine) | Singleton, State, Decorator, Factory |
+| [StackOverflow](./Problems/StackOverflow) | Singleton, Strategy, Inheritance |
 | ... | *More coming* | |
 
 ## Tech
